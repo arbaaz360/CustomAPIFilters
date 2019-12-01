@@ -1,0 +1,14 @@
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\bin\Debug\netcoreapp2.2\CustomAuthorization.deps.json
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\bin\Debug\netcoreapp2.2\CustomAuthorization.runtimeconfig.json
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\bin\Debug\netcoreapp2.2\CustomAuthorization.runtimeconfig.dev.json
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\bin\Debug\netcoreapp2.2\CustomAuthorization.dll
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\bin\Debug\netcoreapp2.2\CustomAuthorization.pdb
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\obj\Debug\netcoreapp2.2\CustomAuthorization.csprojAssemblyReference.cache
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\obj\Debug\netcoreapp2.2\CustomAuthorization.csproj.CoreCompileInputs.cache
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\obj\Debug\netcoreapp2.2\CustomAuthorization.RazorAssemblyInfo.cache
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\obj\Debug\netcoreapp2.2\CustomAuthorization.RazorAssemblyInfo.cs
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\obj\Debug\netcoreapp2.2\CustomAuthorization.AssemblyInfoInputs.cache
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\obj\Debug\netcoreapp2.2\CustomAuthorization.AssemblyInfo.cs
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\obj\Debug\netcoreapp2.2\CustomAuthorization.RazorTargetAssemblyInfo.cache
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\obj\Debug\netcoreapp2.2\CustomAuthorization.dll
+C:\Users\arbaaz\source\repos\CustomAuthorization\CustomAuthorization\obj\Debug\netcoreapp2.2\CustomAuthorization.pdb
